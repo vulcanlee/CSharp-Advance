@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS001捕捉發生於未攔截到例外狀況", "CS001捕捉發生於未攔截到例外狀況\CS001捕捉發生於未攔截到例外狀況.csproj", "{B2A97A89-2B88-4F2E-907A-0631BE3CF81B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS001捕捉發生於未攔截到例外狀況", "CS001捕捉發生於未攔截到例外狀況\CS001捕捉發生於未攔截到例外狀況.csproj", "{B2A97A89-2B88-4F2E-907A-0631BE3CF81B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況", "CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況\CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況.csproj", "{4008F29C-A211-4616-8C62-5E9FD0DCD1FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況", "CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況\CS002捕捉當錯誤工作未觀察到的例外狀況將觸發例外狀況.csproj", "{4008F29C-A211-4616-8C62-5E9FD0DCD1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS003使用非同步 APM方式執行委派方法範例", "CS003使用非同步 APM方式執行委派方法範例\CS003使用非同步 APM方式執行委派方法範例.csproj", "{7A846941-8D37-4ACF-879D-672E4C9FD5D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4008F29C-A211-4616-8C62-5E9FD0DCD1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4008F29C-A211-4616-8C62-5E9FD0DCD1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4008F29C-A211-4616-8C62-5E9FD0DCD1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
