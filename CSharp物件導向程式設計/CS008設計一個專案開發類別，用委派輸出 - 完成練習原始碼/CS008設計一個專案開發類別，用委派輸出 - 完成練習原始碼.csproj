@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>CS008設計一個專案開發類別_用委派輸出___完成練習原始碼</RootNamespace>
   </PropertyGroup>
 

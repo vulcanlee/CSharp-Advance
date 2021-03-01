@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>CS012內建的委派___Fucn_範例程式碼</RootNamespace>
+    <RootNamespace>CS013如何使用_委派_匿名委派的範例程式碼</RootNamespace>
   </PropertyGroup>
 
 </Project>
