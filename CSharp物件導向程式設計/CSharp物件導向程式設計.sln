@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS005使用同步方式執�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS007設計一個專案開發類別，用委派輸出 - 開始練習原始碼", "CS007設計一個專案開發類別，用委派輸出 - 開始練習原始碼\CS007設計一個專案開發類別，用委派輸出 - 開始練習原始碼.csproj", "{73E94033-4BDB-4252-97A2-E68C482D8727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS008設計一個專案開發類別，用委派輸出 - 完成練習原始碼", "CS008設計一個專案開發類別，用委派輸出 - 完成練習原始碼\CS008設計一個專案開發類別，用委派輸出 - 完成練習原始碼.csproj", "{71EFC98A-1CED-4379-BB7B-985433F3D4BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{73E94033-4BDB-4252-97A2-E68C482D8727}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73E94033-4BDB-4252-97A2-E68C482D8727}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73E94033-4BDB-4252-97A2-E68C482D8727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EFC98A-1CED-4379-BB7B-985433F3D4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EFC98A-1CED-4379-BB7B-985433F3D4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EFC98A-1CED-4379-BB7B-985433F3D4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EFC98A-1CED-4379-BB7B-985433F3D4BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

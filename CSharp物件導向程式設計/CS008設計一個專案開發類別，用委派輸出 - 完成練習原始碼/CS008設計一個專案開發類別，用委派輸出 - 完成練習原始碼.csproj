@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CS008設計一個專案開發類別_用委派輸出___完成練習原始碼</RootNamespace>
+  </PropertyGroup>
+
+</Project>
