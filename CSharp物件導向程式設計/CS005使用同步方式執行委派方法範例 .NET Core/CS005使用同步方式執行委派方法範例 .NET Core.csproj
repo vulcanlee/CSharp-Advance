@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS005使用同步方式執行委派方法範例_.NET_Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
