@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS002捕捉當錯誤工作�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS003使用非同步 APM方式執行委派方法範例", "CS003使用非同步 APM方式執行委派方法範例\CS003使用非同步 APM方式執行委派方法範例.csproj", "{7A846941-8D37-4ACF-879D-672E4C9FD5D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS004使用非同步 Callback 的方式來取得執行委派方法結果的範例", "CS004使用非同步 Callback 的方式來取得執行委派方法結果的範例\CS004使用非同步 Callback 的方式來取得執行委派方法結果的範例.csproj", "{3783D5F3-C3DF-4F81-82C3-81893BE20550}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A846941-8D37-4ACF-879D-672E4C9FD5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3783D5F3-C3DF-4F81-82C3-81893BE20550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3783D5F3-C3DF-4F81-82C3-81893BE20550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3783D5F3-C3DF-4F81-82C3-81893BE20550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3783D5F3-C3DF-4F81-82C3-81893BE20550}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
