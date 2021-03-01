@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS004使用非同步 Callba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS005使用同步方式執行委派方法範例", "CS005使用同步方式執行委派方法範例\CS005使用同步方式執行委派方法範例.csproj", "{46597D76-1B45-4155-ACFA-1988E6FC208F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS006請嘗試依據這個需求，設計出使用委派的程式碼", "CS006請嘗試依據這個需求，設計出使用委派的程式碼\CS006請嘗試依據這個需求，設計出使用委派的程式碼.csproj", "{C7C2C152-0821-4CB9-A8A6-41237081202F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{46597D76-1B45-4155-ACFA-1988E6FC208F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46597D76-1B45-4155-ACFA-1988E6FC208F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46597D76-1B45-4155-ACFA-1988E6FC208F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C2C152-0821-4CB9-A8A6-41237081202F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C2C152-0821-4CB9-A8A6-41237081202F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C2C152-0821-4CB9-A8A6-41237081202F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C2C152-0821-4CB9-A8A6-41237081202F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

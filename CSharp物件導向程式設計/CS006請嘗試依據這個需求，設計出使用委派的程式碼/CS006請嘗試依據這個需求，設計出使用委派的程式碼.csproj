@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS006請嘗試依據這個需求_設計出使用委派的程式碼</RootNamespace>
+  </PropertyGroup>
+
+</Project>
