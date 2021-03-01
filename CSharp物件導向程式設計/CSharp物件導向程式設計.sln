@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS012內建的委派 - Fucn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS013如何使用 委派 匿名委派的範例程式碼", "CS013如何使用 委派 匿名委派的範例程式碼\CS013如何使用 委派 匿名委派的範例程式碼.csproj", "{1B327008-4963-4EA5-8EEF-F5547F4B4D10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS014Lambda之非同步方法使用", "CS014Lambda之非同步方法使用\CS014Lambda之非同步方法使用.csproj", "{D26DB403-2480-4AAC-9757-69C8E988B17D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1B327008-4963-4EA5-8EEF-F5547F4B4D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B327008-4963-4EA5-8EEF-F5547F4B4D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B327008-4963-4EA5-8EEF-F5547F4B4D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
