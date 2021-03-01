@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS013如何使用 委派 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS014Lambda之非同步方法使用", "CS014Lambda之非同步方法使用\CS014Lambda之非同步方法使用.csproj", "{D26DB403-2480-4AAC-9757-69C8E988B17D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS015組合委派使用範例", "CS015組合委派使用範例\CS015組合委派使用範例.csproj", "{D89977B3-710A-49BB-A18D-628AD0B05E25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26DB403-2480-4AAC-9757-69C8E988B17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89977B3-710A-49BB-A18D-628AD0B05E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89977B3-710A-49BB-A18D-628AD0B05E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89977B3-710A-49BB-A18D-628AD0B05E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89977B3-710A-49BB-A18D-628AD0B05E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
