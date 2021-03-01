@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS009內建的委派 - Acti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS010內建的委派 - Fucn 範例程式碼", "CS010內建的委派 - Fucn 範例程式碼\CS010內建的委派 - Fucn 範例程式碼.csproj", "{C0DB5F6C-1954-472B-B6D5-DCC8C8C75D2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS011修改 CS008 練習，使用預設委派型別", "CS011修改 CS008 練習，使用預設委派型別\CS011修改 CS008 練習，使用預設委派型別.csproj", "{79D8E5CF-44B8-4CB8-8BD2-F341D98FE6C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C0DB5F6C-1954-472B-B6D5-DCC8C8C75D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0DB5F6C-1954-472B-B6D5-DCC8C8C75D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0DB5F6C-1954-472B-B6D5-DCC8C8C75D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D8E5CF-44B8-4CB8-8BD2-F341D98FE6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D8E5CF-44B8-4CB8-8BD2-F341D98FE6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D8E5CF-44B8-4CB8-8BD2-F341D98FE6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D8E5CF-44B8-4CB8-8BD2-F341D98FE6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
