@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS016列出組合委派中�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS017➊使用委派來設計事件機制", "CS017➊使用委派來設計事件機制\CS017➊使用委派來設計事件機制.csproj", "{5B6E6E8E-EE10-4904-A379-86028FE72F16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS018➋委派設計事件 - 使用公開委派欄位", "CS018➋委派設計事件 - 使用公開委派欄位\CS018➋委派設計事件 - 使用公開委派欄位.csproj", "{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{5B6E6E8E-EE10-4904-A379-86028FE72F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B6E6E8E-EE10-4904-A379-86028FE72F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B6E6E8E-EE10-4904-A379-86028FE72F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
