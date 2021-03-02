@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>CS024在類別內委派變數可以在外部呼叫_在類別內事件僅能夠在類別內呼叫</RootNamespace>
   </PropertyGroup>
 
 </Project>
