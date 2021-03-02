@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS017➊使用委派來設�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS018➋委派設計事件 - 使用公開委派欄位", "CS018➋委派設計事件 - 使用公開委派欄位\CS018➋委派設計事件 - 使用公開委派欄位.csproj", "{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS019➌委派設計事件 - 用屬性與私有支援欄位", "CS019➌委派設計事件 - 用屬性與私有支援欄位\CS019➌委派設計事件 - 用屬性與私有支援欄位.csproj", "{391D0D3C-14C9-40C9-ACE6-9C1648464816}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B72580-EB8E-4176-9C81-EA7E21C7BCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391D0D3C-14C9-40C9-ACE6-9C1648464816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391D0D3C-14C9-40C9-ACE6-9C1648464816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391D0D3C-14C9-40C9-ACE6-9C1648464816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391D0D3C-14C9-40C9-ACE6-9C1648464816}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

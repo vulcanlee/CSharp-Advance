@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS019_委派設計事件___用屬性與私有支援欄位</RootNamespace>
+  </PropertyGroup>
+
+</Project>
