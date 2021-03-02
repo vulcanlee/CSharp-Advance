@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS017_使用委派來設計事件機制</RootNamespace>
   </PropertyGroup>
 
 </Project>
