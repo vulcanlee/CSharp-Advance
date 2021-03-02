@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS024在類別內委派變�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS025設計成績登錄且自動警示通知", "CS025設計成績登錄且自動警示通知\CS025設計成績登錄且自動警示通知.csproj", "{12423905-8A51-4A5C-9845-965C66C50EE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS026設計成績登錄且自動警示通知(完成專案)", "CS026設計成績登錄且自動警示通知(完成專案)\CS026設計成績登錄且自動警示通知(完成專案).csproj", "{BC27368B-0EE3-41C1-A1FA-8F8D392EAA76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{12423905-8A51-4A5C-9845-965C66C50EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12423905-8A51-4A5C-9845-965C66C50EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12423905-8A51-4A5C-9845-965C66C50EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC27368B-0EE3-41C1-A1FA-8F8D392EAA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC27368B-0EE3-41C1-A1FA-8F8D392EAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC27368B-0EE3-41C1-A1FA-8F8D392EAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC27368B-0EE3-41C1-A1FA-8F8D392EAA76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

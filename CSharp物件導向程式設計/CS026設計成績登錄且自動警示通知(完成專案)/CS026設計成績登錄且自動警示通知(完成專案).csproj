@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS026設計成績登錄且自動警示通知_完成專案_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
