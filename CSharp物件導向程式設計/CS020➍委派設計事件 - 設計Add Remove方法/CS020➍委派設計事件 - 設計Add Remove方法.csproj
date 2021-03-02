@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS020_委派設計事件___設計Add_Remove方法</RootNamespace>
+  </PropertyGroup>
+
+</Project>
