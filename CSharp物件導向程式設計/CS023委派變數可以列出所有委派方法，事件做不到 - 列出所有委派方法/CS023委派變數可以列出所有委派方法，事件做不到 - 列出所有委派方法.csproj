@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>CS023委派變數可以列出所有委派方法_事件做不到___列出所有委派方法</RootNamespace>
+  </PropertyGroup>
+
+</Project>

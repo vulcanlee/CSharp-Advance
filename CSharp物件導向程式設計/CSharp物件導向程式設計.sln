@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS021如何使用 事件 Ev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS022委派變數可以任意設定委派方法、事件卻做不到 - 任意設定委派方法", "CS022委派變數可以任意設定委派方法、事件卻做不到 - 任意設定委派方法\CS022委派變數可以任意設定委派方法、事件卻做不到 - 任意設定委派方法.csproj", "{A31B6643-7D18-4785-8980-4D46A151C8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS023委派變數可以列出所有委派方法，事件做不到 - 列出所有委派方法", "CS023委派變數可以列出所有委派方法，事件做不到 - 列出所有委派方法\CS023委派變數可以列出所有委派方法，事件做不到 - 列出所有委派方法.csproj", "{CBB661B9-7EBF-4750-B3DF-0D187984C408}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{A31B6643-7D18-4785-8980-4D46A151C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A31B6643-7D18-4785-8980-4D46A151C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A31B6643-7D18-4785-8980-4D46A151C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB661B9-7EBF-4750-B3DF-0D187984C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB661B9-7EBF-4750-B3DF-0D187984C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB661B9-7EBF-4750-B3DF-0D187984C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB661B9-7EBF-4750-B3DF-0D187984C408}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
