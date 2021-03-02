@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>CS021如何使用_事件_Event_範例</RootNamespace>
+    <RootNamespace>CS022委派變數可以任意設定委派方法_事件卻做不到___任意設定委派方法</RootNamespace>
   </PropertyGroup>
 
 </Project>
